@@ -31,6 +31,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sallescosta&langs_count=8)](https://github.com/sallescosta/github-readme-stats)
 
 
-Profile views: </br>
-</br>
-![profileviews](https://profile-counter.glitch.me/sallescosta/count.svg)
